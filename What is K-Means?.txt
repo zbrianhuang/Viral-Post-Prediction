@@ -1,8 +1,7 @@
 What is K-Means?
-    K-Means clustering is a simple approach for partitining a dataset into K distinct, nonoverlapping clusters. We specify the amount of clusters we want (K), and the algorithem will then assign each observation to exactly one K cluster
+    K-Means clustering is a simple approach for partitioning a dataset into K distinct, nonoverlapping clusters. We specify the amount of clusters we want (K), and the algorithem will then assign each observation to exactly one K cluster
 
-
-Two well-developed observations you found on the given dataset
+Two well-developed observations you found on the given dataset:
 
     In Task 1, the dataset we used was large. As a result, the machine did not properly seperate the clusters causing confusion. However, we can see that with a smaller dataset, the machine is able to properly seperate the clusters and visualize it for the user to see the clustering observed by the machine.
 
